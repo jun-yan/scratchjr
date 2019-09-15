@@ -22,6 +22,8 @@
 	- Search (Google) online
 	- Learn from people around you
 
++ Official tutorial video
+
 + Guessing the blocks' meaning
 
 + Lab session: Dancing alone; Can't stop dancing; dancing party
