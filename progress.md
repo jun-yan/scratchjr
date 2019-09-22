@@ -30,4 +30,18 @@
 
 + Teach your teacher something
 
+#### Control Blocks
 
++ Practice principals
+    - Be ready to find help
+	- Don't be afraid to try and make mistakes
+
++ Coding styles
+    - DRY (Don't repeat yourself)
+	- Not WET (write everything twice)
+	
++ Triggering
+
++ Project management
+
++ Lab session: Starry night; Under the sea; Fidget spinner
