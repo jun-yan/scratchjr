@@ -42,6 +42,18 @@
 	
 + Triggering
 
-+ Project management
-
 + Lab session: Starry night; Under the sea; Fidget spinner
+
+#### Project Management
+
++ Start, save, rename, delete a project
+
++ Bump start
+
++ Lab session: Out space
+
++ Sound blocks
+
++ Lab session: Animal house
+
+
