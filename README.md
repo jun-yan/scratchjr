@@ -1,4 +1,4 @@
-## Kids Programming at Connecticut Chinese Languate Academy
+## Kids Programming at Connecticut Chinese Language Academy
 
 #### Resources
 
