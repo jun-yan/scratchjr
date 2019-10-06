@@ -50,9 +50,16 @@
 
 + Bump start
 
-+ Lab session: Out space
++ Lab session: Outer space
 
-+ Sound blocks
+#### Sound Blocks
+
++ Review of project management
+    - New project
+	- New character
+	- New page
+
++ Sound
 
 + Lab session: Animal house
 
