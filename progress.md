@@ -52,12 +52,23 @@
 
 + Lab session: Outer space
 
-#### Sound Blocks
+
+#### Go-To Page Block
 
 + Review of project management
     - New project
 	- New character
 	- New page
+
++ How to transit from one page to another
+
++ Lab session: Rainy Day
+
+#### Say and Sound Blocks
+
++ Say 
+
++ Lab session: Race to finish
 
 + Sound
 
