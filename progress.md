@@ -74,4 +74,20 @@
 
 + Lab session: Animal house
 
+#### Triggering Message
 
++ How to send and receive a message (6 colors)
+
++ Trigger action by receiving a message
+
++ Lab session
+
++ Scratch controlled by arrows 
+
++ Lab session
+
+#### Halloween adventure
+
++ Paint editor
+
++ Lab session
