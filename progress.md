@@ -91,3 +91,23 @@
 + Paint editor
 
 + Lab session
+
+#### Review 1
+
+https://www.scratchjr.org/teach/activities
+
+1. Drive across the city
+
+2. Run a race
+
+3. Sunset
+
+#### Review 2
+
+4. Moonrise after sunset
+
+5. Spooky forest
+
+6. Dribble a basketball
+
+
