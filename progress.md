@@ -108,6 +108,15 @@ https://www.scratchjr.org/teach/activities
 
 5. Spooky forest
 
+#### Review 3
+
 6. Dribble a basketball
 
+7. Dance party
+
+#### Review 4
+
+8. Meet and greet
+
+9. Conversation
 
